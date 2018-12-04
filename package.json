@@ -1,6 +1,6 @@
 {
-  "name": "json-rules-engine",
-  "version": "2.3.1",
+  "name": "datanchor-rules-engine",
+  "version": "2.3.2",
   "description": "Rules Engine expressed in simple json",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cachecontrol/json-rules-engine"
+    "url": "https://github.com/dataanchor/json-rules-engine"
   },
   "keywords": [
     "rules",
@@ -40,9 +40,9 @@
   "author": "Cache Hamm <cache.hamm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cachecontrol/json-rules-engine/issues"
+    "url": "https://github.com/dataanchor/json-rules-engine.git"
   },
-  "homepage": "https://github.com/cachecontrol/json-rules-engine",
+  "homepage": "https://github.com/dataanchor/json-rules-engine.git",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
